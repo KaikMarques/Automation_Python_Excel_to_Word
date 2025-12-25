@@ -1,0 +1,1 @@
+O arquivo que eu devo mexer está dentro da pasta onde o tkinter designer me gerou, sendo o a pasta: C:...Projetos\Automação\Automation_Python_Excel_to_Word\design\build
